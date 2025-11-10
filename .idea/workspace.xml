@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7f0ed9c-1f5a-4c79-ad4f-61df47feba12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Preloader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/charts/ChartLive.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/charts/ChartMain.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/ui/CoinSelector.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/ui/PeriodSelector.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/hooks/useCrypto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/constants.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/types.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/providers.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/store/cryptoStore.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-    </list>
+    <list default="true" id="c7f0ed9c-1f5a-4c79-ad4f-61df47feba12" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762772459921</updated>
-      <workItem from="1762772460974" duration="7093000" />
+      <workItem from="1762772460974" duration="7454000" />
     </task>
     <servers />
   </component>
